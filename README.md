@@ -13,7 +13,7 @@ Prerequisites:
       docker pull tesseractshadow/tesseract4re
 
 
-Scripted steps:
-1. Run the image as the **t4re** `./scripts/t4rt-run.sh` or just start it if is stopped `./scripts/t4rt-start.sh`.
-2. Do some OCR test: `./scripts/t4rt-test.sh`.
-3. Stop **t4re** container instance: `./scripts/t4rt-stop.sh`.
+Scripted steps (`cd ./scripts/`):
+1. Run the image as the **t4re** `./run.sh` or just start it if is stopped `./start.sh`.
+2. Do some OCR test: `./test.sh`.
+3. Stop **t4re** container instance: `./stop.sh`.
