@@ -1,5 +1,5 @@
 #
-# Tesseract 4 Runtime Docker Environment Image
+# Tesseract 4 OCR Runtime Environment - Docker Container
 #
 
 FROM ubuntu:16.04
