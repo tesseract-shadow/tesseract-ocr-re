@@ -8,7 +8,7 @@ If you are not familiar with Docker please read [Docker - Get Started](https://d
 Prerequisites:
 * [Install Docker](https://docs.docker.com/engine/installation/)
 * [Download](https://github.com/tesseract-shadow/tesseract-ocr-re/archive/master.zip) and unzip this repository
-* Pull **tesseractshadow/tesseract4re** image from [Docker Hub](https://hub.docker.com/r/tesseractshadow/tesseract4re/) (automated build using dockerfile from this repository)
+* Pull **tesseractshadow/tesseract4re** image from [Docker Hub](https://hub.docker.com/r/tesseractshadow/tesseract4re/) (automated build using Dockerfile from [this repository](https://github.com/tesseract-shadow/tesseract-ocr-re))
 
       docker pull tesseractshadow/tesseract4re
 
